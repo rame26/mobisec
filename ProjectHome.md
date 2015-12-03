@@ -1,0 +1,1 @@
+This project was a DARPA CFT funded project that is now being released through OWASP.  It is focused on providing a live environment for mobile security testing, forensics and IR work.
